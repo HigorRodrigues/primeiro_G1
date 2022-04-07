@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(229, 215, 215);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    /*alinhamento do texto ao centro*/
+    text-align: center;
+    /*  aplicando a borda inferior
+        Propriedades: espessura estilo cor
+    */
+    border-bottom: 2px solid rgb(2, 2, 126);
+    /* Alterando a margem direita e esquerda*/
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+header h1 {
+    color:rgb(2, 2, 91);
+    font-size: 70px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
